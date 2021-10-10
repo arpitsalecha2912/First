@@ -72,34 +72,3 @@ div span a {
 .res:hover {
 	color:black;
 }
-.menu {
-	
-}
-#demo{
-					background:tomato;
-					height:400px;
-				}
-				
-				/* xs screen */
-				@media screen  and (min-width:425px){
-					#demo{
-						background:cyan;
-						height:200px;
-					}
-				}
-				
-				/* sm screen */
-				@media screen  and (min-width:767px){
-					#demo{
-						background:yellow;
-						height:200px;
-					}
-				}
-				
-				/* md screen */
-				@media screen  and (min-width:992px){
-					#demo{
-						background:indigo;
-						height:200px;
-					}
-				}
